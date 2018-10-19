@@ -28,23 +28,28 @@ int main(void){
         //　　　　　　然后再用x与z进行比较，如果x>z则将x与z的值进行交换，这样能使x最小。
 
 
-int x,y,z,t;
-scanf("%d %d %d",&x,&y,&z);
-if(x>y){
-    t=x;x=y;y=t;
-}
+/*int x,y,z,t;*/
+//scanf("%d %d %d",&x,&y,&z);
+//if(x>y){
+    //t=x;x=y;y=t;
+//}
 
 
-if(y>z){
-    t=y;y=z;z=t;
-}
-if(z>x)
-{
-    t=z;z=x;x=t;
-}
-printf("从小到大的顺序为：%d %d %d \n ",z,y,x);
+//if(y>z){
+    //t=y;y=z;z=t;
+//}
+//if(z>x)
+//{
+    //t=z;z=x;x=t;
+//}
+/*printf("从小到大的顺序为：%d %d %d \n ",z,y,x);*/
+
+testt
+hao
+nihao
 
 
+cni
 
     return 0;
 
